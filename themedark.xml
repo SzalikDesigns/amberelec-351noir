@@ -256,16 +256,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <pos>0.429 0.445</pos>
         <size>0.5 0.5</size>
     </text> 
-	
-    <!-- <text name="md_lbl_releasedate">
-      <alignment>left</alignment>
-      <fontPath>./_art/Acre.otf</fontPath>
-      <fontSize>0.03</fontSize>
-      <color>ca0c0c</color>
-      <origin>0 0</origin>
-      <pos>0.429 0.820</pos>
-      <size>0.5 0.1111</size>
-    </text> -->
 
     <text name="txt_release" extra="true">
         <text>Release:</text>
@@ -274,7 +264,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.03</fontSize>
         <color>ca0c0c</color>
         <origin>0 0</origin>
-        <pos>0.350 0.820</pos>
+        <pos>0.350 0.825</pos>
         <size>0.5 0.1111</size>
     </text>
 
@@ -284,7 +274,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.03</fontSize>
         <color>818181</color>
         <origin>0 0</origin>
-        <pos>0.445 0.820</pos>
+        <pos>0.445 0.825</pos>
         <size>0.5 0.1111</size>
     </datetime>
 
@@ -295,7 +285,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.03</fontSize>
         <color>ca0c0c</color>
         <origin>0 0</origin>
-        <pos>0.400 0.820</pos>
+        <pos>0.400 0.825</pos>
         <size>0.5 0.1111</size>
     </text>
 
@@ -305,7 +295,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.03</fontSize>
         <color>818181</color>
         <origin>0 0</origin>
-        <pos>0.475 0.820</pos>
+        <pos>0.475 0.825</pos>
         <size>0.5 0.1111</size>
     </text>
 
@@ -316,7 +306,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.03</fontSize>
         <color>ca0c0c</color>
         <origin>0 0</origin>
-        <pos>0.380 0.820</pos>
+        <pos>0.380 0.825</pos>
         <size>0.5 0.1111</size>
     </text>
 
@@ -326,7 +316,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.03</fontSize>
         <color>818181</color>
         <origin>0 0</origin>
-        <pos>0.470 0.820</pos>
+        <pos>0.470 0.825</pos>
         <size>0.5 0.1111</size>
     </text>
 	
