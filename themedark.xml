@@ -42,19 +42,19 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<menuText name="menutitle">
 	<fontPath>./_art/Acre.otf</fontPath>
 	<fontSize>0.06</fontSize>
-	<color>FF0000</color>
+	<color>ca0c0c</color>
 	</menuText>
 	<menuText name="menutext">
 	<fontPath>./_art/BebasNeue.otf</fontPath>
 	<fontSize>0.05</fontSize>
 	<color>818181</color>
-	<selectorColor>FF0000</selectorColor>
+	<selectorColor>ca0c0c</selectorColor>
 	<separatorColor>272727</separatorColor>
 	</menuText>
 	<menuText name="menufooter">
 	<fontPath>./_art/Acre.otf</fontPath>
 	<fontSize>0.03</fontSize>
-	<color>FF0000</color>
+	<color>ca0c0c</color>
 	</menuText>
 </view>
 
@@ -85,7 +85,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <image name="indicator" extra="false">
         <path>./_art/indicators/${system.theme}.png</path>
         <tile>false</tile>
-        <color>F8F8F8</color>
+        <color>efecec</color>
         <origin>0 0</origin>
         <pos>-0.002 0.15</pos>
         <size>0 0.70</size>
@@ -106,14 +106,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
-        <color>FF0000</color>
+        <color>ca0c0c</color>
     </text>
     
     <text name="sys_line2" extra="true">
         <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
-        <color>FF0000</color>
+        <color>ca0c0c</color>
     </text>
 
     <text name="shortdescription" extra="true">
@@ -132,7 +132,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <backgroundColor>00000000</backgroundColor>
         <forceUppercase>1</forceUppercase>
-        <color>FF0000</color>
+        <color>ca0c0c</color>
         <origin>0 0</origin>
         <pos>0.25 0.602</pos>
         <size>0.200 0.039</size>
@@ -164,8 +164,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.02</fontSize>
         <origin>1 1</origin><!--0 0-->
         <pos>0 0</pos> <!--0.0890 0.6283-->
-        <textColor>F8F8F8</textColor>
-        <iconColor>F8F8F8</iconColor>
+        <textColor>efecec</textColor>
+        <iconColor>efecec</iconColor>
     </helpsystem>
 
     <image name="controller" extra="true">
@@ -187,8 +187,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 
     <textlist name="gamelist">
-        <selectorColor>FF0000</selectorColor>
-        <selectedColor>F8F8F8</selectedColor>
+        <selectorColor>ca0c0c</selectorColor>
+        <selectedColor>efecec</selectedColor>
         <selectorHeight>0.05</selectorHeight>
         <primaryColor>585858</primaryColor>
         <secondaryColor>888888</secondaryColor>
@@ -205,7 +205,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <text>Select Game</text>
         <alignment>left</alignment>
-        <color>F8F8F8</color>
+        <color>efecec</color>
         <fontSize>0.034</fontSize>
         <origin>0 0</origin>
         <pos>0.029 0</pos>
@@ -216,7 +216,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
-        <color>FF0000</color>
+        <color>ca0c0c</color>
         <fontSize>0.036</fontSize>
         <origin>0 0</origin>
         <pos>0.429 0</pos>
@@ -251,7 +251,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <fontSize>0.04</fontSize>
-        <color>FF0000</color>
+        <color>ca0c0c</color>
         <origin>0 0</origin>
         <pos>0.429 0.445</pos>
         <size>0.5 0.5</size>
@@ -261,7 +261,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <alignment>left</alignment>
       <fontPath>./_art/Acre.otf</fontPath>
       <fontSize>0.03</fontSize>
-      <color>FF0000</color>
+      <color>ca0c0c</color>
       <origin>0 0</origin>
       <pos>0.429 0.820</pos>
       <size>0.5 0.1111</size>
@@ -272,7 +272,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <fontSize>0.03</fontSize>
-        <color>FF0000</color>
+        <color>ca0c0c</color>
         <origin>0 0</origin>
         <pos>0.350 0.820</pos>
         <size>0.5 0.1111</size>
@@ -293,7 +293,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>center</alignment>
         <fontSize>0.03</fontSize>
-        <color>FF0000</color>
+        <color>ca0c0c</color>
         <origin>0 0</origin>
         <pos>0.400 0.820</pos>
         <size>0.5 0.1111</size>
@@ -314,7 +314,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>right</alignment>
         <fontSize>0.03</fontSize>
-        <color>FF0000</color>
+        <color>ca0c0c</color>
         <origin>0 0</origin>
         <pos>0.380 0.820</pos>
         <size>0.5 0.1111</size>
