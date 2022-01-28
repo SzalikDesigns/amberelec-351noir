@@ -35,8 +35,9 @@ By downloading and installing this theme it will be assumed that you own and pos
 ### Thanks and Credits
 * Chicuelo and c64-dev for the original theme.
 * ScreenScraper.
-* All original artwork belongs to the many artists who devoted their talents and time into making them. 
-* Most of them can be found on [ScreenScraper](https://www.screenscraper.fr/).
+* All original artwork belongs to the many artists who devoted their talents and time into making them.
+* Most of them can be found on [ScreenScraper](https://www.screenscraper.fr/)
+* Last Played Background Vector created by pikisuperstar at www.freepik.com
 
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
 
