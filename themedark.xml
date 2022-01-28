@@ -17,6 +17,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 <formatVersion>4</formatVersion>
 
 <view name="screen">
+	<text name="clock">
+        <pos>0.978 1</pos>
+        <size>0.20 0</size>
+        <fontSize>0.034</fontSize>
+        <fontPath>./_art/Acre.otf</fontPath>
+        <color>FFFFFFA0</color>
+    </text>
     <batteryIndicator name="batteryIndicator">
       <pos>0.955 0.0125</pos>
       <size>0.033 0.033</size>
@@ -29,7 +36,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <color>FFFFFFA0</color>
     </batteryIndicator>
     <batteryIndicator name="batteryIndicator" tinyScreen="true">
-      <pos>0.915 0.013</pos>
+      <pos>0.910 0.005</pos>
       <size>0.07 0.07</size>
     </batteryIndicator>
 </view>
@@ -189,9 +196,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <textlist name="gamelist">
         <selectorColor>ca0c0c</selectorColor>
         <selectedColor>efecec</selectedColor>
-        <selectorHeight>0.05</selectorHeight>
+        <selectorHeight>0.055</selectorHeight>
         <primaryColor>585858</primaryColor>
-        <secondaryColor>888888</secondaryColor>
+        <secondaryColor>818181</secondaryColor>
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <pos>0 0.09</pos>
@@ -205,10 +212,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <text>Select Game</text>
         <alignment>left</alignment>
-        <color>efecec</color>
+        <color>FFFFFFA0</color>
         <fontSize>0.034</fontSize>
         <origin>0 0</origin>
-        <pos>0.029 0</pos>
+        <pos>0.029 0.003</pos>
         <size>0.20 0.08</size>
     </text>
     
@@ -219,7 +226,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>ca0c0c</color>
         <fontSize>0.036</fontSize>
         <origin>0 0</origin>
-        <pos>0.429 0</pos>
+        <pos>0.400 0.008</pos>
         <size>0.40 0.075</size>
     </text>
 
@@ -242,9 +249,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <filledPath>./_art/var/star_filled.svg</filledPath>
         <unfilledPath>./_art/var/star_hollow.svg</unfilledPath>
     </rating>
-
-           
-<!-- Extra Text Labels. Edit text values if needed.-->
 
     <text name="txt_descript" extra="true">
         <text>Description</text>
@@ -330,7 +334,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
               
     <helpsystem name="help">
         <origin>0 1</origin>
-        <pos>0.01 1</pos>
+        <pos>0.01 0.988</pos>
+		<textColor>FFFFFFA0</textColor>
+		<textColor>FFFFFFA0</textColor>
     </helpsystem>
 </view>
 
