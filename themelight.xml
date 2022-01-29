@@ -346,6 +346,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 		
 		<imagegrid name="gamegrid">
 			<autoLayout>2 2</autoLayout>
+			<imageSource>image</imageSource>
 		</imagegrid>
 	</view>
 
