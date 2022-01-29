@@ -335,13 +335,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	</view>
 
 	<view name="grid">
-		<image name="background" extra="true">
-			<tile>false</tile>
-			<path>./_art/ingame-basic-bg.jpg</path>
-			<size>1 1</size>
-			<pos>0 0</pos>
-		</image>
-
 		<gridtile name="default">
 			<backgroundColor>181818</backgroundColor>
 		</gridtile>
