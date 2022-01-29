@@ -185,7 +185,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 </view>
 
-<view name="basic, detailed, video">
+<view name="detailed, video">
 
     <image name="background" extra="true">
         <tile>false</tile>
@@ -208,28 +208,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <lineSpacing>1.683</lineSpacing>
         <horizontalMargin>0.02864</horizontalMargin>
     </textlist>
-    
-    <text name="top_label" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
-        <text>Select Game</text>
-        <alignment>left</alignment>
-        <color>818181</color>
-        <fontSize>0.034</fontSize>
-        <origin>0 0</origin>
-        <pos>0.029 0.003</pos>
-        <size>0.20 0.08</size>
-    </text>
-    
-    <text name="nameLabel" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
-        <alignment>left</alignment>
-        <forceUppercase>1</forceUppercase>
-        <color>ca0c0c</color>
-        <fontSize>0.036</fontSize>
-        <origin>0 0</origin>
-        <pos>0.400 0.008</pos>
-        <size>0.40 0.075</size>
-    </text>
 
     <text name="md_description">
         <fontPath>./_art/Acre.otf</fontPath>
@@ -241,8 +219,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	    <pos>0.408 0.735</pos>
 	    <size>0.510 0.1111</size>
     </text>
-    
-<!-- Place metadata --> 
 
     <rating name="md_rating" extra="true">
         <pos>0.75 0.67</pos>
@@ -326,14 +302,61 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0.5 0.1111</size>
     </text>
 	
-<!-- Hidden Elements -->
     <text name="shortdescription, longdescription" extra="true">
         <origin>1 1</origin>
         <pos>0 0</pos>
         <color>00000000</color>
     </text>
-              
-    <helpsystem name="help">
+</view>
+
+<view name="basic">
+	<image name="background" extra="true">
+        <tile>false</tile>
+        <path>./_art/ingame-basic-bgl.jpg</path>
+        <size>1 1</size>
+        <pos>0 0</pos>
+    </image>
+
+	<textlist name="gamelist">
+        <selectorColor>ca0c0c</selectorColor>
+        <selectedColor>efecec</selectedColor>
+        <selectorHeight>0.055</selectorHeight>
+        <primaryColor>585858</primaryColor>
+        <secondaryColor>818181</secondaryColor>
+        <fontPath>./_art/Acre.otf</fontPath>
+		<alignment>center</alignment>
+        <origin>0.5 0.5</origin>
+        <pos>0.5 0.53</pos>
+	    <size>0.4 0.8</size>
+        <fontSize>0.03</fontSize>
+        <lineSpacing>1.683</lineSpacing>
+    </textlist>
+</view>
+
+<view name="basic, detailed, video">
+	<text name="top_label" extra="true">
+        <fontPath>./_art/Acre.otf</fontPath>
+        <text>Select Game</text>
+        <alignment>left</alignment>
+        <color>818181</color>
+        <fontSize>0.034</fontSize>
+        <origin>0 0</origin>
+        <pos>0.029 0.003</pos>
+        <size>0.20 0.08</size>
+    </text>
+    
+    <text name="nameLabel" extra="true">
+        <fontPath>./_art/Acre.otf</fontPath>
+        <forceUppercase>1</forceUppercase>
+		<alignment>center</alignment>
+        <color>ca0c0c</color>
+        <fontSize>0.036</fontSize>
+        <origin>0.5 0.5</origin>
+        <pos>0.5 0.045</pos>
+        <size>0.25 0.05</size>
+    </text>
+
+	<helpsystem name="help">
         <origin>0 1</origin>
         <pos>0.01 0.988</pos>
 		<textColor>818181</textColor>
@@ -341,7 +364,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </helpsystem>
 </view>
 
-<view name="basic, detailed, grid">
+<view name="detailed">
     <image name="md_image">
         <tile>false</tile>
         <origin>0.5 0.5</origin>
