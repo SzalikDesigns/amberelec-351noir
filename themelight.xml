@@ -309,14 +309,16 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 </view>
 
-<view name="basic">
+<view name="basic, grid">
 	<image name="background" extra="true">
         <tile>false</tile>
         <path>./_art/ingame-basic-bgl.jpg</path>
         <size>1 1</size>
         <pos>0 0</pos>
     </image>
+</view>
 
+<view name="basic">
 	<textlist name="gamelist">
         <selectorColor>ca0c0c</selectorColor>
         <selectedColor>efecec</selectedColor>
@@ -333,7 +335,26 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </textlist>
 </view>
 
-<view name="basic, detailed, video">
+<view name="grid">
+	<image name="background" extra="true">
+        <tile>false</tile>
+        <path>./_art/ingame-basic-bgl.jpg</path>
+        <size>1 1</size>
+        <pos>0 0</pos>
+    </image>
+	<gridtile name="default">
+		<backgroundColor>ededed</backgroundColor>
+	</gridtile>
+	<gridtile name="selected">
+		<backgroundColor>818181</backgroundColor>
+		<padding>4 4</padding>
+	</gridtile>
+	<imagegrid name="gamegrid">
+		<autoLayout>2 2</autoLayout>
+	</imagegrid>
+</view>
+
+<view name="basic, detailed, video, grid">
 	<text name="top_label" extra="true">
         <fontPath>./_art/Acre.otf</fontPath>
         <text>Select Game</text>
