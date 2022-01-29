@@ -79,16 +79,18 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 
 ### Screenshots
 
-![Sample01](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/001.jpg) \
-![Sample02](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/002.jpg) \
-![Sample03](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/003.jpg) \
-![Sample04](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/004.jpg) \
-![Sample05](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/005.jpg) \
-![Sample06](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/006.jpg) \
-![Sample07](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/007.jpg) \
-![Sample08](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/008.jpg) \
-![Sample09](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/009.jpg) \
-![Sample10](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/010.jpg)
+![Sample01](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/001.png) \
+![Sample02](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/002.png) \
+![Sample03](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/003.png) \
+![Sample04](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/004.png) \
+![Sample05](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/005.png) \
+![Sample06](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/006.png) \
+![Sample07](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/007.png) \
+![Sample08](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/008.png) \
+![Sample09](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/009.png) \
+![Sample10](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/010.png) \
+![Sample11](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/011.png) \
+![Sample12](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/012.png)
 
 
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
