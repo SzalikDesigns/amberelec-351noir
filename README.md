@@ -1,6 +1,8 @@
 ## 351Noir 351ELEC Theme
 
-**All credits for MonsieurDaz for creating this theme!!** Find the [original theme](https://github.com/MonsieurDaz/es-theme-351noir) available on their Github [MonsieurDaz](https://github.com/MonsieurDaz)
+** Thanks MonsieurDaz for creating this theme at first place**. Find the [original theme](https://github.com/MonsieurDaz/es-theme-351noir) available on their Github [MonsieurDaz](https://github.com/MonsieurDaz)
+
+Editors: Szalik ( me ) and [kulvind3r](https://github.com/kulvind3r)
 
 Here we have added missing system backgrounds and made minor improvement and fixes to their base idea as they don't have time and give us the green light for doing it :)
 
