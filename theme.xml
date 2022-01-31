@@ -17,5 +17,4 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <formatVersion>4</formatVersion>
     <include subset="colorset" name="Dark">./themedark.xml</include>
     <include subset="colorset" name="Light">./themelight.xml</include>
-
 </theme>
