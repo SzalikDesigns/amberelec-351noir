@@ -4,30 +4,23 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>4 Players</text>
+    <text>GameKing</text>
   </text>
 </view>    
 
 <view name="system">
-  <text name="sys_line1" extra="true">
-    <text>2</text>
-    <fontSize>0.048</fontSize>
-    <origin>0 0</origin>
-   <pos>0.05 0.13</pos>
-    <size>0 0</size>
-  </text>
   <text name="sys_line2" extra="true">
-    <text>Players</text>
+    <text>GameKing</text>
      <fontSize>0.16</fontSize>
     <origin>0 0</origin>
-    <pos>0.05 0.15</pos>
+    <pos>0.05 0.13</pos>
     <size>0 0</size>
   </text>  
   <text name="shortdescription" extra="true">
-   <text>All Consoles / Handhelds</text>
+   <text>2003 </text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play every four player game across the entire library</text>
+   <text>The original GameKing console is a 8-bit handheld game console. It is based around a 65C02 CPU running at 6.0 MHz. It is fashioned to look like Nintendo's Game Boy Advance and comes in a wide array of vivid pastel colours, either opaque or transparent, and uses 2 AAA size batteries.</text>
   </text>
  </view>
 </theme>
