@@ -34,6 +34,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 			<at50>./_art/battery/50.svg</at50>
 			<at25>./_art/battery/25.svg</at25>
 			<empty>./_art/battery/empty.svg</empty>
+			<networkIcon>./_art/wifi.svg</networkIcon>
 			<color>FFFFFFA0</color>
 		</batteryIndicator>
 		<batteryIndicator name="batteryIndicator" tinyScreen="true">
