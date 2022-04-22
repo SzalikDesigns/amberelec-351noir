@@ -76,6 +76,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 		</image>
 		
 		<image name="poster" extra="true">
+			<path>./_art/lposters/default.jpg</path>
 			<path>./_art/lposters/${system.theme}.jpg</path>
 			<tile>false</tile>
 			<origin>1 0</origin>
